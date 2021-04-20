@@ -1,0 +1,2 @@
+Escrevendo uma nova linha
+Escrevendo outra linha com append
